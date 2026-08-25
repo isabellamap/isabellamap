@@ -42,7 +42,7 @@
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<h2>⚡ Linguagens & Tecnologias que estou aprendendo </h2>
+<h2>⚡ Linguagens & Tecnologias (em desenvolvimento) </h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" alt="Python"/>
