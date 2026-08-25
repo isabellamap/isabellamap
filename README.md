@@ -47,7 +47,7 @@
 <p>
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="40"
+    width="30"
     title="Python"
     alt="Python"
   />
@@ -55,7 +55,7 @@
 
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    width="40"
+    width="30"
     title="Java"
     alt="Java"
   />
@@ -63,7 +63,7 @@
 
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    width="40"
+    width="30"
     title="C++"
     alt="C++"
   />
@@ -71,7 +71,7 @@
 
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    width="40"
+    width="30"
     title="VS Code"
     alt="VS Code"
   />
