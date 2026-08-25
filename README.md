@@ -44,41 +44,18 @@
 
 <h2>⚡ Linguagens & Tecnologias</h2>
 
-<p>
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    width="30"
-    title="Python"
-    alt="Python"
-  />
-  &nbsp;&nbsp;
-
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-    width="30"
-    title="Java"
-    alt="Java"
-  />
-  &nbsp;&nbsp;
-
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    width="30"
-    title="C++"
-    alt="C++"
-  />
-  &nbsp;&nbsp;
-
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    width="30"
-    title="VS Code"
-    alt="VS Code"
-  />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" title="C++" alt="C++"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML5" alt="HTML5"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS3" alt="CSS3"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript" alt="JavaScript"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" alt="MySQL"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" alt="VS Code"/>
 </p>
 
 <br>
-
 <!-- ===================== CURRENTLY LEARNING ===================== -->
 
 <h2>📚 Atualmente estudando</h2>
@@ -100,7 +77,7 @@
 <h2>🚀 Projetos</h2>
 
 <p>
-  🔹 <strong>iExame</strong> — Plataforma acadêmica para visualização
+  🔹 <strong>iExame (em andamento)</strong> — Plataforma acadêmica para visualização
   e análise de exames laboratoriais.
 </p>
 
