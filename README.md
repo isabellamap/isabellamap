@@ -1,7 +1,7 @@
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="600">
 <br><br> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 </p>
 
@@ -14,7 +14,33 @@
 <p align="center">
   Olá! 👋🏻 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>
   e tenho interesse na área de <strong>Segurança da Informação</strong>. Estou sempre buscando aprender, desenvolver projetos e evoluir na área de tecnologia. 💻✨
+</p> -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 </p>
+
+<h1 align="center">👩🏻‍💻 Isabella Sobral</h1>
+
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
+  <br>
+  <sub>🔐 Interessada em Segurança da Informação</sub>
+</p>
+
+<br>
+
+<p align="center">
+  Olá! 👋🏻 Seja bem-vindo(a) ao meu GitHub!
+  <br><br>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>,
+  <br>
+  apaixonada por tecnologia e interessada em <strong>Segurança da Informação</strong>.
+  <br>
+  Aqui compartilho meus estudos, projetos e minha evolução na programação. 💻✨
+</p>
+
+<br>
 
 ---
 
