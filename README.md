@@ -42,7 +42,7 @@
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<h2>⚡ Linguagens & Tecnologias</h2>
+<h2>⚡ Linguagens & Tecnologias que estou aprendendo </h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python" alt="Python"/>
@@ -53,6 +53,9 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript" alt="JavaScript"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" alt="MySQL"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" title="VS Code" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white" width="30" title="Git" alt="Git"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="30" title="GitHub" alt="GitHub"/>
+  
 </p>
 
 <br>
